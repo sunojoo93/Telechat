@@ -13,5 +13,6 @@ namespace Telechat
     /// </summary>
     public partial class App : Application
     {
+        // Entry Point //
     }
 }
